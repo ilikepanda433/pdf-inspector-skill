@@ -1,0 +1,14 @@
+{
+  "name": "pdf-inspector-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Claude/agent skill wrapper for @firecrawl/pdf-inspector",
+  "scripts": {
+    "pdf": "node scripts/pdf-tool.mjs",
+    "selftest": "node scripts/pdf-tool.mjs --help"
+  },
+  "dependencies": {
+    "@firecrawl/pdf-inspector": "latest"
+  }
+}
