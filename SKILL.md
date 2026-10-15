@@ -1,3 +1,8 @@
+---
+name: pdf-inspector-skill
+description: Analyze, classify, extract, and convert PDFs to structured Markdown using Firecrawl pdf-inspector, with OCR routing for scanned or mixed PDFs.
+---
+
 # PDF Inspector Skill
 
 Use this skill whenever the user asks to inspect, classify, read, extract, summarize, quote, or structurally analyze a PDF.
